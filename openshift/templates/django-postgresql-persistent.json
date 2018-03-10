@@ -463,7 +463,7 @@
       "displayName": "Git Repository URL",
       "required": true,
       "description": "The URL of the repository with your application source code.",
-      "value": "https://github.com/szatjp/django-ex.git"
+      "value": "https://github.com/szatjp/project.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
